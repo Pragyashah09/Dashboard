@@ -1,0 +1,10 @@
+MERN STACK :: MongoDB, ExpressJs, ReactJs, NodeJs
+
+
+FRONTEND :: Material UI (styling), NIVO(flowcharts), Redux Toolkit(state Management),
+            Redux Toolkit query(API)
+
+
+BACKEND :: NodeJs(Runtime), ExpressJs(Framework), Mongoose(managing or mongodb)
+
+
